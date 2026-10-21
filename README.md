@@ -67,5 +67,3 @@ the only things that leave ur device are ip lookups, speed tests, fonts, the cou
 (⸝⸝ᴗ﹏ᴗ⸝⸝) ᶻ 𝗓 𐰁
 
 <sub>specs come from an open dataset... so some phones can be missing or a little off. location is estimated from ur isp... so it can be off by a city or more.</sub>
-
-if the model isnt in the database a card lets u search the device by name, pick it, and confirm. its remembered for next time and u can change it from the device page
