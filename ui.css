@@ -634,7 +634,6 @@ dl.group dd small { display: block; font-size: calc(12px * var(--fs)); line-heig
   padding: 24px 24px 16px;
   border-radius: 28px;
   background: var(--nav);
-  border: 1px solid var(--line);
   color: var(--on);
   opacity: 0;
   transform: scale(.94);
